@@ -23,6 +23,3 @@ const Navbar = () => {
 }
 
 export default Navbar;
-asdasdasdasd
-
-ывывы
